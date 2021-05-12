@@ -1,5 +1,5 @@
 # Terraform-configure_apache_WebServer
 
-https://github.com/dileep-hub/Terraform-configure_apache_WebServer/blob/master/tem.jpg?raw=true
 
-![mlops](https://github.com/dileep-hub/Terraform-configure_apache_WebServer/blob/master/tem.jpg?raw=true)
+
+![web](https://github.com/dileep-hub/Terraform-configure_apache_WebServer/blob/master/tem.jpg?raw=true)
